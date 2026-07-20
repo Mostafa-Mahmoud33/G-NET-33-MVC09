@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\bin\Debug\net10.0\GymApp.BLL.deps.json
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\bin\Debug\net10.0\GymApp.BLL.dll
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\bin\Debug\net10.0\GymApp.BLL.pdb
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\bin\Debug\net10.0\GymApp.DAl.dll
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\bin\Debug\net10.0\GymApp.DAl.pdb
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.AssemblyInfo.cs
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.csproj.Up2Date
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.dll
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\refint\GymApp.BLL.dll
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\GymApp.BLL.pdb
+C:\Users\HP\source\repos\GymApp\GymApp.BLL\obj\Debug\net10.0\ref\GymApp.BLL.dll
