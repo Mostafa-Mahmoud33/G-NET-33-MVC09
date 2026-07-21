@@ -236,10 +236,10 @@ C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\staticwebassets.bui
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\staticwebassets.development.json
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\staticwebassets.build.endpoints.json
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\swae.build.ex.cache
-C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\GymApp.Web.csproj.Up2Date
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\GymApp.Web.dll
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\refint\GymApp.Web.dll
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\GymApp.Web.pdb
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\GymApp.Web.genruntimeconfig.cache
 C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\ref\GymApp.Web.dll
+C:\Users\HP\source\repos\GymApp\GymApp.Web\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
